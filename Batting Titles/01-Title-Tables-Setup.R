@@ -5,10 +5,10 @@ stats_glossary <- mlb_baseball_stats()
 
 teams <- mlb_teams(sport_ids = 1)
 
-rstudioapi::jobRunScript(path = 'D:/From Alienware/Data Science Stuff/Side Jobs/R Projects/Baseball/Batting Titles/BA_title_loop.R',
+rstudioapi::jobRunScript(path = 'BA_title_loop.R',
                          name = 'BA title loop',
                          exportEnv = 'R_GlobalEnv')
-rstudioapi::jobRunScript(path = 'D:/From Alienware/Data Science Stuff/Side Jobs/R Projects/Baseball/Batting Titles/lgAvg_BA_loop.R',
+rstudioapi::jobRunScript(path = 'lgAvg_BA_loop.R',
                          name = 'lgAvg BA loop',
                          exportEnv = 'R_GlobalEnv')
 BA_titles <- BAs_1920_2022 |>
