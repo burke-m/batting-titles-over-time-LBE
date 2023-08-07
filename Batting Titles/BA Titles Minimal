@@ -1,0 +1,212 @@
+season,value,person_full_name,person_last_name,person_id,team_name,league_name
+1920,.407,George Sisler,Sisler,122280,St. Louis Browns,AL
+1920,.370,Rogers Hornsby,Hornsby,116156,St. Louis Cardinals,NL
+1921,.397,Rogers Hornsby,Hornsby,116156,St. Louis Cardinals,NL
+1921,.394,Harry Heilmann,Heilmann,115705,Detroit Tigers,AL
+1922,.420,George Sisler,Sisler,122280,St. Louis Browns,AL
+1922,.401,Rogers Hornsby,Hornsby,116156,St. Louis Cardinals,NL
+1923,.403,Harry Heilmann,Heilmann,115705,Detroit Tigers,AL
+1923,.384,Rogers Hornsby,Hornsby,116156,St. Louis Cardinals,NL
+1924,.424,Rogers Hornsby,Hornsby,116156,St. Louis Cardinals,NL
+1924,.378,Babe Ruth,Ruth,121578,New York Yankees,AL
+1925,.403,Rogers Hornsby,Hornsby,116156,St. Louis Cardinals,NL
+1925,.393,Harry Heilmann,Heilmann,115705,Detroit Tigers,AL
+1926,.378,Heinie Manush,Manush,118265,Detroit Tigers,AL
+1926,.336,Paul Waner,Waner,123905,Pittsburgh Pirates,NL
+1927,.398,Harry Heilmann,Heilmann,115705,Detroit Tigers,AL
+1927,.380,Paul Waner,Waner,123905,Pittsburgh Pirates,NL
+1928,.387,Rogers Hornsby,Hornsby,116156,Boston Braves,NL
+1928,.379,Goose Goslin,Goslin,114987,Washington Senators,AL
+1929,.398,Lefty O'Doul,O'Doul,119941,Philadelphia Phillies,NL
+1929,.369,Lew Fonseca,Fonseca,114289,Cleveland Indians,AL
+1930,.401,Bill Terry,Terry,123203,New York Giants,NL
+1930,.381,Al Simmons,Simmons,122240,Philadelphia Athletics,AL
+1931,.390,Al Simmons,Simmons,122240,Philadelphia Athletics,AL
+1931,.349,Chick Hafey,Hafey,115295,St. Louis Cardinals,NL
+1931,.349,Bill Terry,Terry,123203,New York Giants,NL
+1932,.368,Lefty O'Doul,O'Doul,119941,Brooklyn Dodgers,NL
+1932,.364,Jimmie Foxx,Foxx,114367,Philadelphia Athletics,AL
+1933,.368,Chuck Klein,Klein,117141,Philadelphia Phillies,NL
+1933,.356,Jimmie Foxx,Foxx,114367,Philadelphia Athletics,AL
+1934,.363,Lou Gehrig,Gehrig,114680,New York Yankees,AL
+1934,.362,Paul Waner,Waner,123905,Pittsburgh Pirates,NL
+1935,.385,Arky Vaughan,Vaughan,123671,Pittsburgh Pirates,NL
+1935,.349,Buddy Myer,Myer,119613,Washington Senators,AL
+1936,.388,Luke Appling,Appling,110297,Chicago White Sox,AL
+1936,.373,Paul Waner,Waner,123905,Pittsburgh Pirates,NL
+1937,.374,Joe Medwick,Medwick,118904,St. Louis Cardinals,NL
+1937,.371,Charlie Gehringer,Gehringer,114682,Detroit Tigers,AL
+1938,.349,Jimmie Foxx,Foxx,114367,Boston Red Sox,AL
+1938,.342,Ernie Lombardi,Lombardi,117880,Cincinnati Reds,NL
+1939,.381,Joe DiMaggio,DiMaggio,113376,New York Yankees,AL
+1939,.349,Johnny Mize,Mize,119207,St. Louis Cardinals,NL
+1940,.352,Joe DiMaggio,DiMaggio,113376,New York Yankees,AL
+1940,.317,Stan Hack,Hack,115283,Chicago Cubs,NL
+1941,.406,Ted Williams,Williams,124341,Boston Red Sox,AL
+1941,.343,Pete Reiser,Reiser,121050,Brooklyn Dodgers,NL
+1942,.356,Ted Williams,Williams,124341,Boston Red Sox,AL
+1942,.318,Enos Slaughter,Slaughter,122319,St. Louis Cardinals,NL
+1943,.357,Stan Musial,Musial,119602,St. Louis Cardinals,NL
+1943,.328,Luke Appling,Appling,110297,Chicago White Sox,AL
+1944,.357,Dixie Walker,Walker,123820,Brooklyn Dodgers,NL
+1944,.327,Lou Boudreau,Boudreau,111272,Cleveland Indians,AL
+1945,.355,Phil Cavarretta,Cavarretta,112146,Chicago Cubs,NL
+1945,.309,Snuffy Stirnweiss,Stirnweiss,122806,New York Yankees,AL
+1946,.365,Stan Musial,Musial,119602,St. Louis Cardinals,NL
+1946,.353,Mickey Vernon,Vernon,123711,Washington Senators,AL
+1947,.363,Harry Walker,Walker,123825,Philadelphia Phillies,NL
+1947,.343,Ted Williams,Williams,124341,Boston Red Sox,AL
+1948,.376,Stan Musial,Musial,119602,St. Louis Cardinals,NL
+1948,.369,Ted Williams,Williams,124341,Boston Red Sox,AL
+1949,.343,George Kell,Kell,116913,Detroit Tigers,AL
+1949,.343,Ted Williams,Williams,124341,Boston Red Sox,AL
+1949,.342,Jackie Robinson,Robinson,121314,Brooklyn Dodgers,NL
+1950,.354,Billy Goodman,Goodman,114952,Boston Red Sox,AL
+1950,.346,Stan Musial,Musial,119602,St. Louis Cardinals,NL
+1951,.355,Stan Musial,Musial,119602,St. Louis Cardinals,NL
+1951,.344,Ferris Fain,Fain,113979,Philadelphia Athletics,AL
+1952,.336,Stan Musial,Musial,119602,St. Louis Cardinals,NL
+1952,.327,Ferris Fain,Fain,113979,Philadelphia Athletics,AL
+1953,.344,Carl Furillo,Furillo,114495,Brooklyn Dodgers,NL
+1953,.337,Mickey Vernon,Vernon,123711,Washington Senators,AL
+1954,.345,Willie Mays,Mays,118495,New York Giants,NL
+1954,.345,Ted Williams,Williams,124341,Boston Red Sox,AL
+1955,.340,Al Kaline,Kaline,116822,Detroit Tigers,AL
+1955,.338,Richie Ashburn,Ashburn,110349,Philadelphia Phillies,NL
+1956,.353,Mickey Mantle,Mantle,118258,New York Yankees,AL
+1956,.328,Hank Aaron,Aaron,110001,Milwaukee Braves,NL
+1957,.388,Ted Williams,Williams,124341,Boston Red Sox,AL
+1957,.351,Stan Musial,Musial,119602,St. Louis Cardinals,NL
+1958,.350,Richie Ashburn,Ashburn,110349,Philadelphia Phillies,NL
+1958,.328,Ted Williams,Williams,124341,Boston Red Sox,AL
+1959,.355,Hank Aaron,Aaron,110001,Milwaukee Braves,NL
+1959,.353,Harvey Kuenn,Kuenn,117354,Detroit Tigers,AL
+1960,.325,Dick Groat,Groat,115176,Pittsburgh Pirates,NL
+1960,.320,Pete Runnels,Runnels,121555,Boston Red Sox,AL
+1961,.361,Norm Cash,Cash,112090,Detroit Tigers,AL
+1961,.351,Roberto Clemente,Clemente,112391,Pittsburgh Pirates,NL
+1962,.346,Tommy Davis,Davis,113112,Los Angeles Dodgers,NL
+1962,.326,Pete Runnels,Runnels,121555,Boston Red Sox,AL
+1963,.326,Tommy Davis,Davis,113112,Los Angeles Dodgers,NL
+1963,.321,Carl Yastrzemski,Yastrzemski,124650,Boston Red Sox,AL
+1964,.339,Roberto Clemente,Clemente,112391,Pittsburgh Pirates,NL
+1964,.323,Tony Oliva,Oliva,119980,Minnesota Twins,AL
+1965,.329,Roberto Clemente,Clemente,112391,Pittsburgh Pirates,NL
+1965,.321,Tony Oliva,Oliva,119980,Minnesota Twins,AL
+1966,.342,Matty Alou,Alou,110188,Pittsburgh Pirates,NL
+1966,.316,Frank Robinson,Robinson,121311,Baltimore Orioles,AL
+1967,.357,Roberto Clemente,Clemente,112391,Pittsburgh Pirates,NL
+1967,.326,Carl Yastrzemski,Yastrzemski,124650,Boston Red Sox,AL
+1968,.335,Pete Rose,Rose,121454,Cincinnati Reds,NL
+1968,.301,Carl Yastrzemski,Yastrzemski,124650,Boston Red Sox,AL
+1969,.348,Pete Rose,Rose,121454,Cincinnati Reds,NL
+1969,.332,Rod Carew,Carew,111986,Minnesota Twins,AL
+1970,.366,Rico Carty,Carty,112071,Atlanta Braves,NL
+1970,.329,Alex Johnson,Johnson,116560,California Angels,AL
+1970,.329,Carl Yastrzemski,Yastrzemski,124650,Boston Red Sox,AL
+1971,.363,Joe Torre,Torre,123406,St. Louis Cardinals,NL
+1971,.337,Tony Oliva,Oliva,119980,Minnesota Twins,AL
+1972,.333,Billy Williams,Williams,124290,Chicago Cubs,NL
+1972,.318,Rod Carew,Carew,111986,Minnesota Twins,AL
+1973,.350,Rod Carew,Carew,111986,Minnesota Twins,AL
+1973,.338,Pete Rose,Rose,121454,Cincinnati Reds,NL
+1974,.364,Rod Carew,Carew,111986,Minnesota Twins,AL
+1974,.353,Ralph Garr,Garr,114627,Atlanta Braves,NL
+1975,.359,Rod Carew,Carew,111986,Minnesota Twins,AL
+1975,.354,Bill Madlock,Madlock,118127,Chicago Cubs,NL
+1976,.339,Bill Madlock,Madlock,118127,Chicago Cubs,NL
+1976,.333,George Brett,Brett,111437,Kansas City Royals,AL
+1977,.388,Rod Carew,Carew,111986,Minnesota Twins,AL
+1977,.338,Dave Parker,Parker,120225,Pittsburgh Pirates,NL
+1978,.334,Dave Parker,Parker,120225,Pittsburgh Pirates,NL
+1978,.333,Rod Carew,Carew,111986,Minnesota Twins,AL
+1979,.344,Keith Hernandez,Hernandez,115826,St. Louis Cardinals,NL
+1979,.333,Fred Lynn,Lynn,118040,Boston Red Sox,AL
+1980,.390,George Brett,Brett,111437,Kansas City Royals,AL
+1980,.324,Bill Buckner,Buckner,111663,Chicago Cubs,NL
+1981,.341,Bill Madlock,Madlock,118127,Pittsburgh Pirates,NL
+1981,.336,Carney Lansford,Lansford,117488,Boston Red Sox,AL
+1982,.332,Willie Wilson,Wilson,124435,Kansas City Royals,AL
+1982,.331,Al Oliver,Oliver,119983,Montreal Expos,NL
+1983,.361,Wade Boggs,Boggs,111153,Boston Red Sox,AL
+1983,.323,Bill Madlock,Madlock,118127,Pittsburgh Pirates,NL
+1984,.351,Tony Gwynn,Gwynn,115270,San Diego Padres,NL
+1984,.343,Don Mattingly,Mattingly,118443,New York Yankees,AL
+1985,.368,Wade Boggs,Boggs,111153,Boston Red Sox,AL
+1985,.353,Willie McGee,McGee,118694,St. Louis Cardinals,NL
+1986,.357,Wade Boggs,Boggs,111153,Boston Red Sox,AL
+1986,.334,Tim Raines,Raines,120891,Montreal Expos,NL
+1987,.370,Tony Gwynn,Gwynn,115270,San Diego Padres,NL
+1987,.363,Wade Boggs,Boggs,111153,Boston Red Sox,AL
+1988,.366,Wade Boggs,Boggs,111153,Boston Red Sox,AL
+1988,.313,Tony Gwynn,Gwynn,115270,San Diego Padres,NL
+1989,.339,Kirby Puckett,Puckett,120790,Minnesota Twins,AL
+1989,.336,Tony Gwynn,Gwynn,115270,San Diego Padres,NL
+1990,.330,Eddie Murray,Murray,119579,Los Angeles Dodgers,NL
+1990,.329,George Brett,Brett,111437,Kansas City Royals,AL
+1991,.341,Julio Franco,Franco,212297,Texas Rangers,AL
+1991,.319,Terry Pendleton,Pendleton,120381,Atlanta Braves,NL
+1992,.343,Edgar Martinez,Martinez,118365,Seattle Mariners,AL
+1992,.330,Gary Sheffield,Sheffield,122111,San Diego Padres,NL
+1993,.370,Andres Galarraga,Galarraga,114526,Colorado Rockies,NL
+1993,.363,John Olerud,Olerud,119976,Toronto Blue Jays,AL
+1994,.394,Tony Gwynn,Gwynn,115270,San Diego Padres,NL
+1994,.359,Paul O'Neill,O'Neill,120028,New York Yankees,AL
+1995,.368,Tony Gwynn,Gwynn,115270,San Diego Padres,NL
+1995,.356,Edgar Martinez,Martinez,118365,Seattle Mariners,AL
+1996,.358,Alex Rodriguez,Rodriguez,121347,Seattle Mariners,AL
+1996,.344,Ellis Burks,Burks,111736,Colorado Rockies,NL
+1997,.372,Tony Gwynn,Gwynn,115270,San Diego Padres,NL
+1997,.347,Frank Thomas,Thomas,123245,Chicago White Sox,AL
+1998,.363,Larry Walker,Walker,123833,Colorado Rockies,NL
+1998,.339,Bernie Williams,Williams,124288,New York Yankees,AL
+1999,.379,Larry Walker,Walker,123833,Colorado Rockies,NL
+1999,.357,Nomar Garciaparra,Garciaparra,114596,Boston Red Sox,AL
+2000,.372,Todd Helton,Helton,115732,Colorado Rockies,NL
+2000,.372,Nomar Garciaparra,Garciaparra,114596,Boston Red Sox,AL
+2001,.350,Larry Walker,Walker,123833,Colorado Rockies,NL
+2001,.350,Ichiro Suzuki,Suzuki,400085,Seattle Mariners,AL
+2002,.370,Barry Bonds,Bonds,111188,San Francisco Giants,NL
+2002,.349,Manny Ramirez,Ramirez,120903,Boston Red Sox,AL
+2003,.359,Albert Pujols,Pujols,405395,St. Louis Cardinals,NL
+2003,.326,Bill Mueller,Mueller,119482,Boston Red Sox,AL
+2004,.372,Ichiro Suzuki,Suzuki,400085,Seattle Mariners,AL
+2004,.362,Barry Bonds,Bonds,111188,San Francisco Giants,NL
+2005,.335,Derrek Lee,Lee,117601,Chicago Cubs,NL
+2005,.331,Placido Polanco,Polanco,135784,Detroit Tigers,AL
+2005,.331,Michael Young,Young,276545,Texas Rangers,AL
+2006,.347,Joe Mauer,Mauer,408045,Minnesota Twins,AL
+2006,.344,Freddy Sanchez,Sanchez,408108,Pittsburgh Pirates,NL
+2007,.363,Magglio Ordonez,Ordonez,120044,Detroit Tigers,AL
+2007,.340,Matt Holliday,Holliday,407812,Colorado Rockies,NL
+2008,.364,Chipper Jones,Jones,116706,Atlanta Braves,NL
+2008,.328,Joe Mauer,Mauer,408045,Minnesota Twins,AL
+2009,.365,Joe Mauer,Mauer,408045,Minnesota Twins,AL
+2009,.342,Hanley Ramirez,Ramirez,434670,Florida Marlins,NL
+2010,.359,Josh Hamilton,Hamilton,285078,Texas Rangers,AL
+2010,.336,Carlos Gonzalez,Gonzalez,471865,Colorado Rockies,NL
+2011,.344,Miguel Cabrera,Cabrera,408234,Detroit Tigers,AL
+2011,.337,Jose Reyes,Reyes,408314,New York Mets,NL
+2012,.336,Buster Posey,Posey,457763,San Francisco Giants,NL
+2012,.330,Miguel Cabrera,Cabrera,408234,Detroit Tigers,AL
+2013,.348,Miguel Cabrera,Cabrera,408234,Detroit Tigers,AL
+2013,.331,Michael Cuddyer,Cuddyer,150212,Colorado Rockies,NL
+2014,.341,Jose Altuve,Altuve,514888,Houston Astros,AL
+2014,.319,Justin Morneau,Morneau,408047,Colorado Rockies,NL
+2015,.338,Miguel Cabrera,Cabrera,408234,Detroit Tigers,AL
+2015,.333,Dee Strange-Gordon,Strange-Gordon,543829,Miami Marlins,NL
+2016,.348,DJ LeMahieu,LeMahieu,518934,Colorado Rockies,NL
+2016,.338,Jose Altuve,Altuve,514888,Houston Astros,AL
+2017,.346,Jose Altuve,Altuve,514888,Houston Astros,AL
+2017,.331,Charlie Blackmon,Blackmon,453568,Colorado Rockies,NL
+2018,.346,Mookie Betts,Betts,605141,Boston Red Sox,AL
+2018,.326,Christian Yelich,Yelich,592885,Milwaukee Brewers,NL
+2019,.335,Tim Anderson,Anderson,641313,Chicago White Sox,AL
+2019,.329,Christian Yelich,Yelich,592885,Milwaukee Brewers,NL
+2019,.329,Ketel Marte,Marte,606466,Arizona Diamondbacks,NL
+2020,.364,DJ LeMahieu,LeMahieu,518934,New York Yankees,AL
+2020,.351,Juan Soto,Soto,665742,Washington Nationals,NL
+2021,.328,Trea Turner,Turner,607208,Los Angeles Dodgers,NL
+2021,.319,Yuli Gurriel,Gurriel,493329,Houston Astros,AL
+2022,.326,Jeff McNeil,McNeil,643446,New York Mets,NL
+2022,.316,Luis Arraez,Arraez,650333,Minnesota Twins,AL
